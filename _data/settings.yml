@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
     - title: 'Projekty'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Zápisník'
       url: '/blog/'
     - title: 'O mně'
       url: '/about/'
@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Lenka Krsová
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1-hero.jpg'
+  author__avatar: '/images/foto-metro.jpg'
 
 social:
 - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
@@ -59,6 +59,11 @@ mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
 
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Zápisník
+  blog__description:
 
 #-------------------------------
 # Projects Settings
@@ -105,24 +110,17 @@ testimonial__items:
 
 
 #-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Zápisník
-  blog__description:
-
-
-#-------------------------------
 # Gallery Footer Settings
 gallery:
   gallery__images:
     - alt: 'FSV Rozpravy o médiích'
       url: '/images/fsv-rozpravy.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+    - alt: 'Pražský herní akcelerátor'
+      url: '/images/akcelerator-foto.jpg'
+    - alt: 'Psaní pro LEVEL'
+      url: '/images/level.jpg'
+    - alt: 'Remarkable'
+      url: '/images/remarkable.jpg'
 
 
 #-------------------------------
@@ -133,7 +131,7 @@ footer_menu__settings:
       url: '/'
     - title: 'Projekty'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'Zápisník'
       url: '/blog/'
     - url: '/about/'
       title: 'O mně'
