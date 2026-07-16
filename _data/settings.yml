@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projekty'
-      url: '/projects/'
     - title: 'Zápisník'
       url: '/blog/'
+    - title: 'Projekty'
+      url: '/projects/'
     - title: 'O mně'
       url: '/about/'
     - title: 'Kontakt'

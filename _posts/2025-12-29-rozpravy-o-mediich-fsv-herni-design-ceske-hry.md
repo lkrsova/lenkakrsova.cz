@@ -3,7 +3,7 @@ layout: post
 title:  Povídali jsme si na FSV o českých hrách
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2025-12-29 09:00:00 +0300
-image:  '/images/02.jpg'
+image:  '/images/rozpravy-fsv-herni-design.png'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [rozhovory, média, herní design, české hry]
 ---
