@@ -59,6 +59,11 @@ mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
 
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Zápisník
+  blog__description:
 
 #-------------------------------
 # Projects Settings
@@ -102,13 +107,6 @@ testimonial__items:
     designation: "Full Stack Designer"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-
-#-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Zápisník
-  blog__description:
 
 
 #-------------------------------
