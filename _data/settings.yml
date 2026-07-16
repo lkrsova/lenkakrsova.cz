@@ -12,16 +12,16 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
+    - title: 'Projekty'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'O mně'
+      url: '/about/'
+    - title: 'Kontakt'
+      url: '/contact/'
     - title: 'Pages'
       submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
       - url: '/elements/'
         title: 'Elements'
 
@@ -47,8 +47,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy, ve kterých se cítíš jako doma.
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti jak na to.
+  hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám generacím hráčů stát se herními designéry. S vědeckými poznatky v zádech šířím osvětu o videoherním řemeslu, hlavně o principech, na kterých design zážitků ve hrách stojí. Často o tom všem mluvím veřejně pro odbornou i laickou veřejnost. Píšu k tomu newsletter o tom, co mě v práci inspiruje nejen z popkultury a současných společesnkých fenoménů.
   hero__image: '/images/01-1-hero.jpg'
 
 
@@ -63,8 +63,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Projekty
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Do čeho jsem zapojená
+  projects__description: Lorem ipsum
 
 
 #-------------------------------
