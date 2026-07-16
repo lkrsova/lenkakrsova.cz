@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Lenka Krsová
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1-hero.jpg'
+  author__avatar: '/images/foto-metro.jpg'
 
 social:
 - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
@@ -49,7 +49,7 @@ social:
 hero:
   hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti jak na to.
   hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám generacím hráčů stát se herními designéry. S vědeckými poznatky v zádech šířím osvětu o videoherním řemeslu, hlavně o principech, na kterých design zážitků ve hrách stojí. Často o tom všem mluvím veřejně pro odbornou i laickou veřejnost. Píšu k tomu newsletter o tom, co mě v práci inspiruje nejen z popkultury a současných společesnkých fenoménů.
-  hero__image: '/images/foto-metro.jpg'
+  hero__image: '/images/01-1-hero.jpg'
 
 
 #-------------------------------
