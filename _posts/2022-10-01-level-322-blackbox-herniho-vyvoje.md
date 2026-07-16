@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jak stvořit virtuální bytost, kterou budou mít hráči rádi 
+title:  Vyšel mi článek v LEVEL o zdánlivé nepropustnosti opony herního vývoje
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2023-10-01 09:00:00 +0300
 image:  '/images/level322-clanek.jpg'
