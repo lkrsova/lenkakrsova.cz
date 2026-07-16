@@ -3,7 +3,7 @@ layout: post
 title:  Jak to mají ženy v herním průmyslu?
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2025-10-15 09:00:00 +0300
-image:  '/images/akcent-podcast.jpg'
+image:  '/images/pixelarchiv-zeny.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [rozhovory, média, ženy vývojářky, herní průmysl]
 ---
