@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Lenka Krsová - herní designérka
+title: Lenka Krsová
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Hilton is a super simple portfolio theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -47,9 +47,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Monica. I will create design that can give you value
+  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy, ve kterých se cítíte jako doma.
   hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/01-01-hero.jpg'
 
 
 #-------------------------------
