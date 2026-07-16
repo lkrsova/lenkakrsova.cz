@@ -115,8 +115,8 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
+    - alt: 'FSV Rozpravy o médiích'
+      url: '/images/fsv-rozpravy.jpg'
     - alt: 'Lifestyle'
       url: '/images/gallery-2.jpg'
     - alt: 'Hobby'
