@@ -1,5 +1,5 @@
 ---
-title: The Witcher 3 Wild Hunt - Songs of The Past DLC
+title: "The Witcher: 3 Wild Hunt - Songs of The Past"
 date: 2022-01-10 08:01:35 +0300
 subtitle: Living World Design
 image: '/images/w3-wh-sotp.png'
