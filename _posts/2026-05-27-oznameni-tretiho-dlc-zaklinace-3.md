@@ -5,7 +5,7 @@ description: Bring to the table win-win survival strategies to ensure proactive 
 date:   2026-04-25 09:00:00 +0300
 image:  '/images/w3-wh-sotp.png'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [workshopy, herní design, Linserka]
+tags:   [development, PR, Witcher 3]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
