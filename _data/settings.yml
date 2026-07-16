@@ -12,7 +12,7 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Projects'
+    - title: 'Projekty'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
@@ -47,7 +47,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy, ve kterých se cítíš jako doma.
+  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti, jak na to.
   hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   hero__image: '/images/01-1-hero.jpg'
 
