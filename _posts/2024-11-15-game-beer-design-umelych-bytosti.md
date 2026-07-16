@@ -3,7 +3,7 @@ layout: post
 title:  Jak stvořit virtuální bytost, kterou budou mít hráči rádi 
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2024-11-15 09:00:00 +0300
-image:  '/images/pixelarchiv-zeny.jpg'
+image:  '/images/game-beer-vritual-human.jpeg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [přednášky, herní design, umělé bytosti, AI, NPC]
 ---
