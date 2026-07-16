@@ -3,7 +3,7 @@ layout: post
 title:  Workshopovali jsme v liberecké Linserce na téma Jak udělat hru
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2025-10-15 09:00:00 +0300
-image:  '/images/linserka-liberec.jpg'
+image:  '/images/linserka-liberec.jpeg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [workshopy, herní design, Linserka]
 ---
