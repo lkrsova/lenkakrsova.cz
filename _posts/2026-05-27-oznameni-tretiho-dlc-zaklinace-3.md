@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Workshopovali jsme v liberecké Linserce na téma Jak udělat hru
+title:  Oznámili jsme, že pracujeme na třetím DLC pro legendárního Zaklínače 3
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2026-04-25 09:00:00 +0300
 image:  '/images/w3-wh-sotp.png'
