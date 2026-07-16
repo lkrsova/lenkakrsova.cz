@@ -47,8 +47,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti, jak na to.
-  hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám lektorováním růst dalším generacím a šířím osvětu o videoherním průmyslu a našem řemeslu.
+  hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti jak na to.
+  hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám generacím hráčů stát se herními designéry. Šířím osvětu o videoherním řemeslu, hlavně o principech, na kterých design zážitků ve hrách stojí.
   hero__image: '/images/01-1-hero.jpg'
 
 
