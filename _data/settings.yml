@@ -130,9 +130,6 @@ footer_menu__settings:
       title: 'O mně'
     - url: '/contact/'
       title: 'Kontakt'
-    - url: '/elements/'
-      title: 'Elements'
-
 
 #-------------------------------
 # Contact Settings
