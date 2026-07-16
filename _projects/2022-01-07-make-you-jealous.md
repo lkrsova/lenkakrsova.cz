@@ -1,5 +1,5 @@
 ---
-title: Kingdom Come: Deliverance II
+title: Kingdom Come Deliverance II
 date: 2022-01-07 08:01:35 +0300
 subtitle: Living World Design
 image: '/images/kcd.jpg'
