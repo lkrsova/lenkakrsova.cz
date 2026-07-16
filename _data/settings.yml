@@ -63,13 +63,13 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
+  projects__title: Projekty, ve kterých mám prsty
   projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
 
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: What clients say
+testimonial__title: Proč se mnou pracovat
 testimonial__description:
 
 testimonial__items:
@@ -107,7 +107,7 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Recent Posts
+  blog__title: Zápisník
   blog__description:
 
 
@@ -129,16 +129,16 @@ gallery:
 # Footer Navigation Settings
 footer_menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Domů'
       url: '/'
-    - title: 'Projects'
+    - title: 'Projekty'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
     - url: '/about/'
-      title: 'About'
+      title: 'O mně'
     - url: '/contact/'
-      title: 'Contact'
+      title: 'Kontakt'
     - url: '/elements/'
       title: 'Elements'
 
