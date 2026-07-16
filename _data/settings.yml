@@ -20,10 +20,6 @@ menu__settings:
       url: '/about/'
     - title: 'Kontakt'
       url: '/contact/'
-    - title: 'Pages'
-      submenu:
-      - url: '/elements/'
-        title: 'Elements'
 
 
 #-------------------------------
@@ -35,10 +31,7 @@ author:
 
 social:
 - {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-square-facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-github", link: "https://github.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -48,7 +41,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Ahoj! Říkají mi Leni. Tvořím herní světy a ukážu ti jak na to.
-  hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám generacím hráčů stát se herními designéry. S vědeckými poznatky v zádech šířím osvětu o videoherním řemeslu, hlavně o principech, na kterých design zážitků ve hrách stojí. Často o tom všem mluvím veřejně pro odbornou i laickou veřejnost. Píšu k tomu newsletter o tom, co mě v práci inspiruje nejen z popkultury a současných společesnkých fenoménů.
+  hero__description: Designuju světy velkých herních titulů. Když zrovna nenosím čapku herní vývojářky, pomáhám generacím hráčů stát se herními designéry. S vědeckými poznatky v zádech šířím osvětu o videoherním řemeslu, hlavně o principech, na kterých design zážitků ve hrách stojí. Často o tom všem mluvím veřejně pro odbornou i laickou veřejnost. Píšu si k tomu <a href="https://scriptedrealities.substack.com/">newsletter</a> o tom, co mě v práci inspiruje nejen z popkultury a současných společesnkých fenoménů.
   hero__image: '/images/01-1-hero.jpg'
 
 
