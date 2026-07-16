@@ -1,7 +1,7 @@
 ---
-title: How We Live
+title: Pražský herní akcelerátor
 date: 2022-01-09 08:01:35 +0300
-subtitle: Letterign
+subtitle: Mentoring
 image: '/images/pha.jpg'
 ---
 
