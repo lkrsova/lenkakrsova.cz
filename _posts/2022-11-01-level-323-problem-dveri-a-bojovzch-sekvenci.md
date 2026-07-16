@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Jak stvořit virtuální bytost, kterou budou mít hráči rádi 
+title:  Vyšel mi článek v LEVEL o problémech se dveřmi v herních světech
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
-date:   2023-11-01 09:00:00 +0300
+date:   2022-11-01 09:00:00 +0300
 image:  '/images/level323-clanek.jpg'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [článek, herní design, LEVEL]
