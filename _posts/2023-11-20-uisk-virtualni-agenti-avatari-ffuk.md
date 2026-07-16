@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Přednáška pro FFUK o inteligentních agentech a avatarech nejen ve videohrách
+title: Přednáška pro FF UK o inteligentních agentech a avatarech nejen ve videohrách
 description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that. Capitalize on low hanging fruit to identify a ballpark value activity to beta test. Override the digital divide with additional.
 date:   2023-11-20 09:00:00 +0300
 image:  '/images/virtualni-agenti-ffuk-uisk.png'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [přednáška, herní design, avataři, umělé bytosti, AI, NPC]
+tags:   [přednáška, herní design, avataři, umělé bytosti, NPC]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse.
